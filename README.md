@@ -1,2 +1,2 @@
-# SmartGoldPrice
-Firmware Smart Gold Price
+# sgp
+test system
